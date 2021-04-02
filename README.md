@@ -2,7 +2,9 @@
 
 ### Ph.D. Student in Applied Mathematics | Full Stack Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I have a background in Mechanical Engineering and Physics. I am currently finishing my Ph.D. in Applied Mathematics. During my student life, I have always leaned towards computational areas because I love writing software. I am currently learning Deep Learning on my spare time while I also develop apps to polish my skills.
+
+In the future I would love to put my background to good use by combining my engineering knowledge with my coding skills.
 
 - 🔭 I’m currently working on my Ph.D. thesis and side projects.
 - 🌱 I’m currently learning Deep Learning and App development.
