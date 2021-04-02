@@ -46,15 +46,19 @@ Currently learning:
 [![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=django-btre-project)](https://github.com/fjcasti1/django-btre-project)
 [![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=amazonas)](https://github.com/fjcasti1/amazonas)
 
----
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ---
+
 #### Spotify Playing 🎧
 
 ![Spotify](https://spotify-now-playing-fjcasti1.vercel.app/api/spotify)
-
 
 
 <!-- Variable definitions -->
