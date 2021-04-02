@@ -41,6 +41,12 @@ Currently learning:
 
 ---
 
+![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=techshop)
+![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=devconnector)
+![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=django-btre-project)
+![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=amazonas)
+
+---
 #### Spotify Playing 🎧
 
 ![Spotify](https://spotify-now-playing-fjcasti1.vercel.app/api/spotify)
