@@ -50,6 +50,11 @@ Currently learning:
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/fjcasti1/fjcasti1/pull/4) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
+2. 💪 Opened PR [#4](https://github.com/fjcasti1/fjcasti1/pull/4) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
+3. 🎉 Merged PR [#3](https://github.com/fjcasti1/fjcasti1/pull/3) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
+4. ❗️ Closed issue [#2](https://github.com/fjcasti1/fjcasti1/issues/2) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
+5. 💪 Opened PR [#3](https://github.com/fjcasti1/fjcasti1/pull/3) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
 <!--END_SECTION:activity-->
 
 </details>
