@@ -2,9 +2,10 @@
 
 ### Ph.D. Student in Applied Mathematics | Full Stack Developer
 
-I have a background in Mechanical Engineering and Physics. I am currently finishing my Ph.D. in Applied Mathematics. During my student life, I have always leaned towards computational areas because I love writing software. I am currently learning Deep Learning on my spare time while I also develop apps to polish my skills.
+I have a background in Mechanical Engineering and Physics. I am currently finishing my Ph.D. in Applied Mathematics. During my student life, I have always leaned towards computational areas because I love writing software. I am currently learning Deep Learning in my spare time while I also develop apps to polish my skills.
 
-In the future I would love to put my background to good use by combining my engineering knowledge with my coding skills.
+In the future, I would love to put my background to good use by combining my engineering knowledge with my coding skills.
+
 
 - 🔭 I’m currently working on my Ph.D. thesis and side projects.
 - 🌱 I’m currently learning Deep Learning and App development.
@@ -23,7 +24,7 @@ I've developed a strong understanding of the following programming languages:
  <img alt="Terminal" height="30" width="40" src="./icons/python.svg" /><img alt="Terminal" height="30" width="40" src="./icons/html-5.svg" /><img alt="Terminal" height="30" width="40" src="./icons/css-3.svg" /><img alt="Terminal" height="30" width="40" src="./icons/javascript.svg" /><img alt="Terminal" height="30" width="40" src="./icons/matlab.svg" /><img alt="Terminal" height="30" width="40" src="./icons/fortran.svg" /><img alt="Terminal" height="30" width="80" src="./icons/bash.svg" />
 
 
-In my web-development projects, I have used the following technologies:
+In my web development projects, I have used the following technologies:
 
  <img alt="Terminal" height="30" width="100" src="./icons/mongodb.svg" /><img alt="Terminal" height="30" width="40" src="./icons/express.svg" /><img alt="Terminal" height="30" width="40" src="./icons/react.svg" /><img alt="Terminal" height="30" width="40" src="./icons/redux.svg" /><img alt="Terminal" height="30" width="40" src="./icons/nodejs.svg" /><img alt="Terminal" height="30" width="40" src="./icons/apollostack.svg" /><img alt="Terminal" height="30" width="40" src="./icons/graphql.svg" /><img alt="Terminal" height="30" width="40" src="./icons/django-icon.svg" /><img alt="Terminal" height="30" width="40" src="./icons/bootstrap.svg" /><img alt="Terminal" height="30" width="40" src="./icons/firebase.svg" /><img alt="Terminal" height="30" width="40" src="./icons/jwt.svg" /><img alt="Terminal" height="30" width="40" src="./icons/stripe.svg" /><img alt="Terminal" height="30" width="40" src="./icons/paypal.svg" />
 
