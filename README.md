@@ -47,6 +47,10 @@ Currently learning:
 [![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=amazonas)](https://github.com/fjcasti1/amazonas)
 
 ---
+
+<!--START_SECTION:activity-->
+
+---
 #### Spotify Playing 🎧
 
 ![Spotify](https://spotify-now-playing-fjcasti1.vercel.app/api/spotify)
