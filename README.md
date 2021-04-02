@@ -46,21 +46,19 @@ Currently learning:
 [![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=django-btre-project)](https://github.com/fjcasti1/django-btre-project)
 [![Readme Card](https://github-readme-stats-fjcasti1.vercel.app/api/pin/?username=fjcasti1&repo=amazonas)](https://github.com/fjcasti1/amazonas)
 
----
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/fjcasti1/fjcasti1/pull/4) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
-2. 💪 Opened PR [#4](https://github.com/fjcasti1/fjcasti1/pull/4) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
-3. 🎉 Merged PR [#3](https://github.com/fjcasti1/fjcasti1/pull/3) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
-4. ❗️ Closed issue [#2](https://github.com/fjcasti1/fjcasti1/issues/2) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
-5. 💪 Opened PR [#3](https://github.com/fjcasti1/fjcasti1/pull/3) in [fjcasti1/fjcasti1](https://github.com/fjcasti1/fjcasti1)
 <!--END_SECTION:activity-->
 
+</details>
+
 ---
+
 #### Spotify Playing 🎧
 
 ![Spotify](https://spotify-now-playing-fjcasti1.vercel.app/api/spotify)
-
 
 
 <!-- Variable definitions -->
