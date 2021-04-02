@@ -18,16 +18,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 I've developed a strong understanding of the following programming languages:
 
- <img alt="Terminal" height="30" width="40" src="./icons/python.svg" />
- <img alt="Terminal" height="30" width="40" src="./icons/html-5.svg" />
- <img alt="Terminal" height="30" width="40" src="./icons/css-3.svg" />
- <img alt="Terminal" height="30" width="40" src="./icons/javascript.svg" />
- <img alt="Terminal" height="30" width="40" src="./icons/matlab.svg" />
- <img alt="Terminal" height="30" width="40" src="./icons/fortran.svg" />
- <img alt="Terminal" height="30" width="80" src="./icons/bash.svg" />
+ <img alt="Terminal" height="30" width="40" src="./icons/python.svg" /><img alt="Terminal" height="30" width="40" src="./icons/html-5.svg" /><img alt="Terminal" height="30" width="40" src="./icons/css-3.svg" /><img alt="Terminal" height="30" width="40" src="./icons/javascript.svg" /><img alt="Terminal" height="30" width="40" src="./icons/matlab.svg" /><img alt="Terminal" height="30" width="40" src="./icons/fortran.svg" /><img alt="Terminal" height="30" width="80" src="./icons/bash.svg" />
 
-<br/>
-<br/>
 
 In my web-development projects, I have used the following technologies:
 
