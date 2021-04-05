@@ -1,4 +1,4 @@
-## Hi there 👋, my name is [Francisco][portfolio]
+## Hi there 👋, my name is <a href="https://personal-portfolio-7018a.web.app" target="\_blank">Francisco</a>
 
 ### Ph.D. Student in Applied Mathematics | Full Stack Developer
 
@@ -10,11 +10,11 @@ In the future, I would love to put my background to good use by combining my eng
 - 🌱 I’m currently learning Deep Learning and App development.
 - 👀 I’m looking for internship opportunities while I finish my Ph.D.
 - 📫 How to reach me: fjcasti1@asu.edu
-- 🌐 Visit my [Portfolio][portfolio]
+- 🌐 Visit my <a href="https://personal-portfolio-7018a.web.app" target="\_blank">Portfolio</a>
 
 #### Connect with me
 
-[<img alt="kiko.com" width="40" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio] [<img alt="kiko | LinkedIn" width="40" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://personal-portfolio-7018a.web.app" target="\_blank"><img alt="kiko.com" width="40" height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a><a href="https://linkedin.com/in/f-castillo-carrasco" target="\_blank"><img alt="kiko | LinkedIn" width="40" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br/>
 
 #### Languages and Tools
